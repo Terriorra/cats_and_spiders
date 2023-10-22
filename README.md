@@ -1,5 +1,7 @@
 # cats and spiders
-A small game for a computer science lesson on the topic of Logical Statements.
+A small game for a computer science lesson on the topic of Logical Statements.</br>
+start console game with main.py</br>
+packages: only python 3.11
 
 Игра основана на логической задаче Р. Смаллиана из книги «Принцесса или тигр?».
 
@@ -39,6 +41,3 @@ $A \wedge \bar{B} =  4 \wedge (2, 4) = 4$
 $\bar{A} \wedge B = (1, 2, 3) \wedge (1, 3) = 1, 3$
 
 В первом случае у нас только один вариант, а во втором два. Выбираем один, то есть 4. В этом случае у нас в каждой комнате сидит по кошке.
-
-
-
